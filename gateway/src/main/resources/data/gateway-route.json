@@ -1,0 +1,17 @@
+[
+  {
+    "filters": [
+    ],
+    "id": "intelab-cabinet-base-server",
+    "order": 0,
+    "predicates": [
+      {
+        "args": {
+          "_genkey_0": "/cabinet/**"
+        },
+        "name": "Path"
+      }
+    ],
+    "uri": "lb://intelab-cabinet-base-server"
+  }
+]
